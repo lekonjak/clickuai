@@ -1,0 +1,155 @@
+1º ANO DO ENSINO MÉDIO											
+CÓD.	ALUNO	RESPONSÁVEL	TELEFONE 1	TELEFONE 2	E-MAIL 	TELEFONE 1	TELEFONE 2	EMAIL DO ALUNO	E-MAIL DO RESPONSÁVEL	END	PERMISSÃO
+1111001	Thayani Carolina Xaxier Silva	Paulo Xavier da Silva e Josefa Barboda Silva 	33068082	33685052		33068082	33685057		pxavier1@itelefonica.com.br	Rua José Riga, nº 645, Samambaia, São Carlos/SP - 13565-560	
+1111002	Barbara pauletto Fragalle	Eustáquio pepino Fragalle / Mirian E. P. Fragalle	33723541	33051800		33713541	91839762		miriamgragalle@terra.com.br	Rua São Sebastião, 1997, Apt: 91, Centro, São Carlos/SP - 13560-230	
+1111003	Bruno Drighetti	Marcelo Drighetti/ Luciana Fabiano Rodrigues Drighetti	34112192	33746002		34112192			marcelodrighetti@terra.com.br	Alameda dos Pessegueiros, 59, Parque Faber, São Carlos/SP - 13561-383	
+1111004	Victória Xavier	Maria Fernanda Xavier / Edmur José Xavier	33987359	31164828		33987369	91286842/91415881	mferx.84@gmail.com	nferx.84@gmail.com	Avenida Amanacy, lote 2, quadra 18, Parque Itaipu, São Carlos/SP - Cep.  13570-970	
+1111005	Jessica Thais Corsso	Angelica Gomes do Nascimento	33744182			33744182	91870555/81349316	jessica_corsso@hotmail.com			
+1111006	Leonardo Miassi Netto	Rita de Cássia Rosa Miassi	34136672	33715976		34136672/33716971	91178280		ritamiasi@bol.com.br	Rua: José Pallone, nº39, Jardim Bandeirantes, São Carlos/SP - CEP 13562-160	
+1111007	Vitoria De Oliveira Zani	Vaniza Barboza de Oliveira	33616259			33616259	92220594		Ritamiasi@bol.com.br / sergio.zani@gmail.com	Rua.Jose Riga, nº 275 - residencial Samambaia - 13565-560 São Carlos/SP	
+1111008	Leon Silveira Abramovith	Eliane Pos Santos Silveira	33642227	33741255	leonabr2@hotmail.com	33642227	97814108/33741255	leonabr@hotmail.com	jacob_eliane@hotmail.com	Rua São Sebastião, nº 70, Planalto Paraiso, São Carlos/SP - 13561-207	
+1111009	Pedro Wolf	Sergio Wolf/ Helen Betune Wolf	33617567	33727944		33617567	97677981/97826354	pedrowolf_95@hotmail.com	sergiowolf@gmail.com	Rua Thomas Antonio Gonzaga, nº 300, Pq. Arnold Shimdt, São Carlos/SP - CEP 1566-583	
+1111010	Pedro Sanchez Farinas	Paulo Eduardo Fornasari Farinas/ Cristiana Sanchez Farina	33764694	33519637		33764694	91848058/91699314		pfarinas@ig.com.br	Av. Miguel Damha, 1000, unidade 56, Jardim Guanabara, São Carlos/SP - 13565-814	
+1111011	Pedro Villela Miranda	Fernanda Holmo Villela Miranda/ Samuel da Costa Miranda Filho	33718509	33721972	oi28996@hotmail.com	33718909	99617309/97824410	oi28996@hotmail.com	ferholmo@terra.com.br	Av. Passeio das Palmeiras, 555, Ap. 221, Parque Faber, São Carlos/SP - CEP 13561-195	
+1111012	Isabella Marino de Vasconcellos	Eliane jacline Marino De Vasconcelos/Rudy Paulo de Vasconcelos Júnior	19-35753425	19-35751232	bellinha_mvasc@hotmail.com	19-35753425	19-35752363	bellinaa@hotmail.com	rudyjunior@gmail.com	"R. 4, nº 842, Vila Garbi, Itirapina/SP; Cep:13530-000"	
+1111013	Giovanna Martins de brito	Marcelo Pereira de Brito/Denise Martins de Brito	34131363	92311992/34115095		34131365	3411509592311992		marcelobrito@globo.com.br	Rua Pedro Fernando Alonso, nº ,117 Santa Felicia  São Carlos/SP - Cep: 13562-380	
+1111014	Giovanni Giorgetti Felonta	Marilia Fontozzi Giorgetti	34113508	33987369		34113508	33987369/ 97824636		mariliafg@linkway.com.br	Alameda Apeacaba, n.457 - Parque Itaipu - São Carlos/SP Cep. 13571-800	
+1111015	Bruna Varella Miguel 	Laiz Helena Moreira Varella/ Roberto Moraes de Araujo	34161182	33743630/91888808	brunavarella@hotmail.com	34161182	91888808/33743630	brunavarella@hotmail.com	laiz.varella@hotmail.com	Rua: Passeio dos Tangatas, nº 779, Parque Faber, Cep: 13561394 São Carlos/SP	
+1111016	Pedro de Moura Pereira	Daisy de Moura Pereira / Paulo Cesar Pereira	34127617	33715117	pepe_moura@hotmail.com	34127617	91245393/81322133	pepe_moura@hotmail.com	daisymp@ig.com.br	Rua Major José Inácio, nº 3041, Centro, São Carlos/SP - Cep. 1560-161	
+1111017	Jun Lawrense Santo Takara	Ernesto Tadashi Takara/ Rita Tamae Santo Gozo Takara	34110798	34153353/97910250		34110798	97684346/97910250		Ernesto.takara@terra.com.br	Rua: Benedict Stall Sodré, nº147, Santa Paula, Cep: 13564-091 - Saõ Carlos/SP	
+1111018	Luigi Rotta Módolo	Nilda Mara Salvagni Rotta / Délson Luiz Módolo	33728058		luigirotta@yahoo.com.br	33728058	97337311/97814504	luigirotta@rocketmail.com.br	nildarotta@yahoo.com.br	Rua Totó Leite, nº 1794, Vila Nery, São Carlos/SP - Cep:13569139	
+1111019	Lucas Sobrenson Navarro	Ana Maria Sobrenson	34110137	99623119		34110137	99623119			Rua:Antonio Masselli, nº449, JD Riceti, Cep: 13570-010 São Carlos/SP	
+1111020	Seidi Inamasu	Ricardo Inamasu/ Kiwie Inamasu	33741341	21012804	seidi.inamasu@hotmail.com	33741341	81630602/81521221	seidiinamasu@hotmail.com	ricardo_inamasu@yahoo.com.br	Rua: Padre Teixeira, nº 1337, jardim Bethania, São Carlos/SP, Cep: 13561050	
+1111021	Ana Luiza Triques Moraes	Heloisa Maria Triques Moraes / Mauro Luiz Moraes	33613676	33710055/ 11-38866834	analuizatriquesm@hotmail.com	33613676	91168845/33710055	analuizatriquesm@hotmail.com	moraes.ml@hotmail.com	Rua das Margaridas, nº279, Cidade Jardim, Cep: 13566-543 São Carlos/SP 	
+1111022	Yago Biffi Fusco	Evandro Genaro Fusco/ Alcione Pereira Biffi Fusco	33073576	33941160-r24	yahofusco@gmail.com	33073576	81461414/81569730	yagofusco@gmail.com	evandrofusco@gmail.com	Rua: Ernane Stefane, nº 100, Parque Fehr, São Carlos/SP, CEP:13563750	
+1111023	Maria Fernanda Mariconde Massari	Mabel Mariconde Massari/ José Geraldo Massari	34126852	21070123/	mabelmassari@itelefonica.com.br	34126852	97735226/21070123	mabelmassari@itelefonica.com.br	biomol@labmaricondi.com.br	Rua: Monoel José Serpa, nº 225,  Planalto Paraíso, São Carlos/SP CEP: 13562070	
+1111024	Natalia Mihoto Vaccari	Marcia Mihoto Vaccari/ Wesley Silas Vaccari	33764007	33753814	brisa.camping@terra.com.br	33764007/33753814	33764007	brisa.camping@terra.com.br		Rua: São Sebastião, nº1170, Santa Mônica, São Carlos/SP - Cep: 13561207	
+1111025	Francesco Gabriel Rio Saggio	Angelo Augusto Saggio	33612333			33612333	97090567/97090881		saggio@ufscar.com.br	Rua: Alameda das Rosas, nº295, Cidade jardim, São Carlos/SP, Cep: 13566-560	
+1111026	Aaron Domingues Gonçalves da Silva	Glauco Alonso Gonçalves da Silva 	33076165	33643067	Aaron_domingues@hotmail.com	33076165	92454347/92454337	aaron_domingues@hotmail.com	valquiriasilva1@hotmail.com	Rua Cajucy Accioly Wanderley, 200 - Vila Elizabeth, São Carlos - CEP: 13560-490	
+1111027	Letícia Barletta Alencar	André Luís Gomes de Alencar / Andréa Ferreira Barletta	34.111.050	21065900	leticia_alencar@hotmail.com	34111050	21065900/91015905	leticia_alencar@hotmail.com	andrea.barletta@caixa.gov.br	Rua Abrahão João, nº 72, Jardim Bandeirantes, CEP: 13.562-150 São Carlos /SP	
+1111028	Alexandre Pawlicka Maule	Agnieska Joanna Pawlicka Maule	33.739.919			33987108	88399919/81147562			Rua: Alameda Amanacy, chacara 2258, Parque Itaipu, São Carlos/SP, Cep: 13570-970	
+1111029	Daniel Castilho Sehwab	Sgmund Schwab / Maria CristinaCastilho	33617245	33739333		33617245	97187555/97321100		sigschwab@hotmail.com	Rua Nicolo Fiorentino, nº 101, Residencial Samambaia, CEP: 13565-575	
+1111030	Bianca Sciescia	Maria Regina Cavalaro Sciescia/Reginaldo Sciescia	33764223/34126427	91134278		34126427	33764223/91134278			Rua: José de Paula Lattanzio, nº81, Parque Primavera, São Carlos/SP - Cep:13567-510	
+1111031	Isabel Victoria Masias	Jorge Arnaldo Masias Garcias/ Fábia M. da  Silva Buzatto	34160525			34160525/33715976			jmasiasgarcia@hotmail.com	Rua: Thomaz Lofreta, nº 38, Parque Primavera, São Carlos/SP - Cep:13567-370	
+1111032	João Vitor Bertuga Cerqueira	Maristela Bertuga Cerqueira/Nelson Edelberto Cerqueira 	33671235	34132953	bertugacerqueira@ig.com.br	33671235	91789088/91381309	bertugacerqueira@ig.com.br	cerqueira.nec@ig.com.br	Rua: Professora Maria D`Cresci Leopoldino, Condominio Montreal, São Carlos/SP - Cep: 13563820	
+1111033	Helena Marina Antonini Centanin	Maria Luciana Antonini	33642192	33681857	mlach@uol.com.br	33642192		mlach@uol.com.br		Rua: Avenida Pacaembu, nº 85, Jardim Pacaembu, São Carlos/SP - Cep: 13572330	
+1111034	Bento Prado de Almeida Ferraz	Nanci Marisa Prado/Bento Tedesco Prado A. Ferraz	33762126	33744285		33762126	92162247/92879491		tuxo@ufscar.br	Rua: Nestor de Campos, nº 256, São Carlos/SP - Cep: 13562-101	
+1111035	Pedro Henrique Carmago Freire	Daici Carmargo Antonioli/Adalto Mariconde Freire	33714770	33073829		33714770/33073829	91722108	pedrao_69_rox@hotmail.com	daiciantonioli@hotmail.com	Rua: Alameda da Goiabeiras, nº11, Parque Faber, São Carlos/SP, - Cep:13561357	
+1111036	TIAGO  ESPERAÇA TRIQUE	SUELI ESPERANÇA 				3411 2605/33715976	99136599/99136601		suelitriques@gmail.com	RUA JOSÉ CALIJURI, 378 JARDIM PAULISTANO, CEP 13564-430 SÃO CARLOS - SP	
+1111037	DANIELA AOKI HEREDIA	Izabel Heredia/Miguel Heredia				33613397/34153577	97733361		bleheredia@uol.com.br	RUA: José de Alencar, nº137, Vila Costa sol, São Carlos - Cep: 13566-00	
+1111038	MARIA LAURA RODRIGUES ALCANTARA	Durval de Alcantara Filho/ Sândia Rodrigues de Souza Alcantara				33743608	91853618		drvalmed@gmail.com	RUA: ALAMEDA DAS Jaboticabeiras, nº 306, Parque Faber I, São Carlos - Cep:13561354	
+1111039	Mariana Sanches	Mirian Sanches/Mauro Aparecido Sanches				34152548	97320313		miriansanchess@hotmail.com	Rua: Alameda Juscelino, nº 143, Residencial Sabará, São Carlos/SP - Cep:	
+	Jonathan Cesar Mizusaki Gomes	Marcio Gomes				33077002	92078688		marcio@gomes.med.br	Rua: Doutor Orlando Damiano, nº 2100, apt. 103, Jardim Macarengo, São Carlos, SP - Cep: 13560-450	
+											
+											
+											
+2º ANO DO ENSINO MÉDIO											
+CÓD.	ALUNO	RESPONSÁVEL	TELEFONE 1	TELEFONE 2	E-MAIL 	TELEFONE 1	TELEFONE 2	EMAIL DO ALUNO	E-MAIL DO RESPONSÁVEL	END	PERMISSÃO
+1211001	Ana Carolina Giacomini Gomes	Mercia Aparecida Giacomini	33741179	33729168					Mercialcm@hotmail.com	Rua: Giovanni Rossi, nº69, Vila Deriggi - Cep. 13569-232 - São  Carlos/SP	
+1211002	Rafhaele Zeraik Palaro	Vilson Palaro Jínior / Rosa Helena Zaeraik Palaro	33711296						vparalo@hotmail.com	Rua: Antonio Rodrigues Cajado, nº1777, Vila Nery, São Carlos/SP - Cep. 13560-291	
+1211003	Gustavo Henrique Batista	Joelma Carvalho Batista/Antônio Batista	34112364	32011308	gustavo_tista@hotmail.com	3411 2364		gustavo_tista@hotmail.com	joelma.carba@hotmail.com	Rua: Francisco Fiorentino, nº470, Boa Vista, São Carlos/SP, Cep:13574007	
+1211004	Carolina Zanetti de  Paula	Anair Stella Albuquerque	35012020	33628200					anairzan@terra.com.br	Rua: Victorio Bonucci, nº 248, Jardim Tangará, São Carlos/SP - Cep: 13568110	
+1211005	RAFAEL GENEVICIUS PINTO FERRAZ	FERNANDA NOVAES GENEVICIUS	3413 1377	91017965	rafagpferraz@hotmail.com	3413 1377		rafagpferraz@hotmail.com	fernandangferrar@hotmail.com	RUA CESAR RICOME, 769 JD. LUTFALA, CEP 13560-510 SÃO CARLOS - SP	
+1211006	Isabela Rodrigues Aleixo	Silvia Maria Rodrigues Aleixo/ Luiz Roberto Pereira Aleixo	34130305		bellaaleixo@hotmail.com	3413 0305		bellaaleixo@hotmail.com		RUA BERNADINO DE CAMPOS, 1407 VILA PRADO, CEP 13574-030 SÃO CARLOS - SP	
+1211007	Lucas Henrique Neves Figueredo	Maria Regina Rodrigues Neves Figueredo	33645273	33718194	lucas.figueiredo9@gmail.com	3371 8194/33645273		lucas.figueiredo9@gmail.com		AV. JOSÉ PEREIRA LOPES, 1790 BOTAFOGO, CEP 13575-380 SÃO CARLOS - SP	
+1211008	Leticia Arine Bortolozzo	Erveli de Fatima Esse Bortolozzo	16-33436717		leticia_bortolozzo@hotmail.com	(16) 3343 6717		leticia_bortolozzo@hotmail.com	ervelibortolozzo@ig.com.br	RUA HENRIQUE  LUBERK, 185 JD. MARIANA, CEP 14815-000  IBATÉ - SP	
+1211009	Amanda Guereschi	Odair José Guereschi/ Gilda Aparecida Nonato Guereschi	34128322	33612021	amandaguereschi@terra.com.br	3412 8322		amandaguereschi@terra.com.br	ogla.vendas2terra.com.br	RUA LIBÓRIO MARINO, 281 NOVA SANTA PAULA, CEP 13564-340 SÃO CARLOS - SP	
+1211010	Fernando Cabral Ribeiro	Silvana Cabral	33712661	9159 3583	fernandinho.cribeirabal@hotmail.com	3371 2661	9159 3583	fernandinho.cribeirabal@hotmail.com	silvana.cabral@terra.com.br	RUA URANO MARTINS,386 CENTRO, CEP 13561-233 SÃO CARLOS - SP	
+1211012	Rodolfo Vitor Déo	Maria Angela Déo 	33745849		rodolfovitordeo@r7.com.br	3374 5849	3415 5072	rodolfo_vitor_deo@hotmail.com	maria_angela@r7.com.br	RUA JOSÉ TEIXEIRA, 68 PARQUE SISI, CEP 13562-440 SÃO CARLOS - SP	
+1211013	Raiza Ruscito	Silvana Ruscito/ Paulo Ségio Rucisto	16-33434599		raiza-acnad@hotmail.com	(16) 3343 4599		raiza-acnad@hotmail.com	ruscito@linkway.com.br	RUA PAULINO CARLOS, 1163 CENTRO, CEP 14815-000 SÃO CARLOS - SP	
+1211014	Jéssica Silva Prado	Nelci Aparecida da Silva/ Marcos Prado	(16) 3343 6169	16-92229300	jessica_prasilva@hotmail.com	(16) 3343 6169		jessica_prasilva@hotmail.com	nela_silva47@hotmail.com	RUA FLORIANO PEIXOTO, 769 CENTRO, CEP 14815-000 IBATÉ - SP	
+1211015	Matheus Disaro	JOANA CASTURINA DA SILVA	3413 3507		mathdisaro@hotmail.com	3413 3507		mathdisaro@hotmail.com		RUA AMERICO JACOMINO CANHOTO,153 NOVA SANTA PAULA, CEP 13564-350 SÃO CARLOS - SP	
+1211016	Jaqueline Sobral Gavioli	Ana Lucia Sobral/ Roberto Gavioli	33073555	33741255-ramal 1203	jaque.gavioli@hotmail.com	3307 3555	3374 1255 R-1206 / 81445406	jaque.gavioli@hotmail.com	analucia.gavioli@gmail.com	RUA MARECHAL DEODORO, 3267 EDIFÍCIO VIVENDA NOBRE APT 24, SÃO CARLOS - SP - CEP. 13569-006	
+1211017	Julia Périgo Chiuzi	Magda Cardoso Périgo Chuizi/Juarez Chuizi	16-33431424	16-33725475		(16) 3343 1224		julia_perigo@hotmail.com	julia_perigo@hotmail.com	Rua: Paulino Carlos, nº 543, Centro, Ibaté/SP - Cep: 14815-000	
+1211018	HENRIQUE FIGUEIRA LOPES	MILENA GOLDFARB FIGUEIRA				9791 2021		coxa_f_lopes@hotmail.com	milenafigueira04@yahoo.com.br	RUA JOSÉ BONIFÁCIO, 1860 CENTRO, CEP 13560-610 SÃO CARLOS - SP	
+1211019	PEDRO MAGALHÃES ALBUQUERQUE	JOÃO LUIS DE OLIVEIRA CARRANO ALBUQUERQUE				3372 0504	8142 8670	pedro_lobo3@hotmail.com	nutri.maga@uol.com.br	R. 28 DE SETEMBRO,1605 APTO - 23 CENTRO CEP- 13560270	
+1211020	VITOR ROSSI HECKE	SILMARA CRISTINA ROSSI				3366 4624		vitor_rh10@hotmail.com	sil.rossi@yahoo.com.br	RUA SALOMÃO SCHEVEZ, 469 JD. CRUZEIRO DO SUL, CEP 13572-083 SÃO CARLOS - SP	
+1211021	ENRICO CODA CELASCHI					3373-9352	9601-6060	celaschi@gmail.com	celaschi@gmail.com		
+1211022	FELIPE BRAZ FEDERSON	MARIA CRISTINA ANDERSON BRAZ FEDERSON				3373 8156		fedfederson@hotmail.com	federson@gmail.com / federson@icmc.usp.br	AV. TANCREDO A. NEVES, 457 AP. 444, CEP 13561-260  SÃO CARLOS - SP	
+1211023	MARIA CLAUDIA HARADA FERREIRA	MARIA LAVRINDA DE CASTRO SOUZA HARADA FERREIRA				3361 7888		mariac.hf-94@hotmail.com	adhemar.harada@uol.com.br	RUA CAMELIAS, 98 CIDADE JARDIM, CEP 13566-538 SÃO CARLOS - SP	
+1211024	ELLEN MICHILINI MATTOS FACEIRO	VANIA MARTINS MICHILINI FACEIRO				3307 5768	3371 1605	allen_faceiro@hotmail.com		RUA CANDIDO DE ARRUDA BOTELHO, 1549 PARQUE SANTA FELÍCIA, CEP 13.563-300	
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+3º ANO DO ENSINO MÉDIO											
+CÓD.	ALUNO	RESPONSÁVEL	TELEFONE 1	TELEFONE 2	E-MAIL 	TELEFONE 1	TELEFONE 2	EMAIL DO ALUNO	E-MAIL DO RESPONSÁVEL	END	PERMISSÃO
+1311001	BRENO MELLO DE ALMEIDA 	REINALDO DE ALMEIDA/ Maria Cristina Mello	33744156	97818401	brecricari@hotmail.com	3116 1402		brecricari@hotmail.com	mello.cris@ig.com.br	RUA DR. ORLANDO DAMIANO, 1956 JD. MACARENGO, CEP 13560-450 SÃO CARLOS - SP	
+1311002	CAROLINA MARCOLINO MASSARENTTI	MARY AP. MARCOLINO MASSARENTTI	33743001	21065429	kitcarol5@yahoo.com.br	33743001/2106 5429	97689957	carolinefsg@hotmail.fr	mary@sc.usp.br	RUA BISPO CESAR DACORSSO FILHO,712 VILA CARMEM, CEP 13575-010 SÃO CARLOS - SP	
+1311003	VANESSA GIAMPEDRO	ANGELA CRISTINA PREGNOLATO GIAMPEDRO	3372 1070	33739106	nessa_gp88@hotmail.com	3372 1070		nessa_gp88@hotmail.com	giampedro@sc.usp.br	RUA SETE DE SETEMBRO, 4020 VILA NERY, CEP 13569-000 SÃO CARLOS - SP	
+1311004	JOÃO PAULO POIANI DOS SANTOS CAPALDI	CARLOS EDUARDO CAPALDI	3398 7191		jcapalti@hotmail.com	3398 7191		jcapalti@hotmail.com	capalti@bol.com.br	ALAMEDA ABUNA LOTE 10 Q - 20, CEP 13560-970 SÃO CARLOS - SP	
+1311005	MARINA MARCHETTI	SANTINA DE PAULA MARCHETTI	3411 1918	2106 1190	marina.marchetti8@yahoo.com.br	3411 1918	2106 1190	marina.marchetti8@yahoo.com.br	santina.marchetti@faber-castel.com.br	RUA DAS CAMELIAS, 301 CIDADE JARDIM, CEP 13566-538 SÃO CARLOS - SP	
+1311006	GABRIEL COSTA BLANCO	DEBORA GONZALEZ COSTA BLANCO	3412 5177	34121177	garls9@hotmail.com	3412 5177		garls9@hotmail.com	debora.blanco@edunet.sp.gov.br	RUA MIGUEL GIOMET,465 VILA ELIZABETH, CEP 13560-420 SÃO CARLOS - SP	
+1311007	RAFAEL BOGAS	MARCIA CRISTINA DA FONSECA	3411 2336	33071520	rafaelbogas@yahoo.com.br	3411 2336		rafaelbogas@yahoo.com.br	mcbogas@terra.com.br	RUA DR. ADELMO STELLA CHIOVINI, 41 VISTA ALEGRE, CEP 13567-180 SÃO CARLOS - SP	
+1311008	ADRIANA FURQUIM MARINOVIC	DALVA APARECIDA DE SOUZA MARINOVIC	33067128	9232 2364/33720449	drimarinovic@hotmail.com	9232 2364		drimarinovic@hotmail.com	dalvamrc@yahoo.com.br	AV. MIGUEL DAMHA,1000 - CASA 110 JD. GUANABARA, CEP 13565-814 SÃO CARLOS - SP	
+1311009	JULIANA SCANDOLA FROSSARD	SANDRA DE CASSIA SCANDOLA FROSSARD	3307 8769	21069276	ju.frossard@hotmail.com	3307 8769		ju.frossard@hotmail.com	sfrossard2008@hotmail.com	RUA ABEL GIONGO,1827 VILA NERY, CEP 13569-003 SÃO CARLOS - SP	
+1311010	ANA CLARA WADA DE CARVALHO	SILVIA REGINA WADA	3371 3754		acwada@hotmail.com	3371 3754		acwada@hotmail.com	awada@hotmail.com	RUA SERAFIM BALOUTA RODRIGUES, 84 COND. DOM BOSCO, CEP 13569-220 SÃO CARLOS - SP	
+1311011	LARISSA GIOVANNA CAZELLA 	JOSÉ ANTONIO CAZELLA	3361 4543		larissa_giovanna2006@hotmail.com	3361 4543		larissa_giovanna2006@hotmail.com	adrianatravalim2007@hotmail.com	RUA RAFAEL DE SENZI,690 JD. SÃO JOÃO BATISTA, CEP 13567-010 SÃO CARLOS - SP	
+1311012	MARIA LUISA BACCA GONÇALVES	EUGENIA LUIZA BOCCA GONÇALVES	34130045	9114 7370/33518344	luisabac@yahoo.com.br	9114 7370		luisabac@yahoo.com.br	eugenia@ufscar.br	RUA SETE DE SETEMBRO,3752 VILA NERY, CEP 13569-000 SÃO CARLOS - SP	
+1311013	CAUÊ LAZARETH BALASSA JACQUES	KATIA LAZARETH BALASSA	3371 1832		caue_batatinha@hotmail.com	3371 1832		caue_batatinha@hotmail.com		RUA MARECHAL DEODORO,2692 VILA NERY, CEP 13560-201 SÃO CARLOS - SP	
+1311014	NICOLE  LEITNER	INÊS ALVES DE MELO	34110128	2106 5913	nicole_leitner@hotmail.com	2106 5913		nicole_leitner@hotmail.com	inesmelo2004@ig.com.br	RUA ANTONIO RODRIGUES CAJADO,1506 VILA NERY, CEP 13560-291 SÃO CARLOS - SP	
+1311015	ISADORA FRANCESCONI DE OLIVEIRA	ALESSANDRA FRANCESCONI	3374 3632	9783-9261	isadora.francesconi@gmail.com	3374 3632	9783-9261	isadora.francesconi@gmail.com	aliframo@yahoo.com.br	RUA ISIS FERNANDES, 255 APTO 11, CEP 13561-040 SÃO CARLOS - SP	
+1311016	JULIA STEPHAINE BRUNO	ANGELA MARIA BUENO ROSA BRUNO	3374 2172	33686718	juliasb9@gmail.com	3374 2172		juliasb9@gmail.com	angelambr@gmail.com	RUA DONA ALEXANDRINA, 1779 APTO 61 CENTRO, CEP 13560-290 SÃO CARLOS - SP	
+1311017	ANNA PAULA PAWLICKA MAULE	AGNIESZKA JOANNA PAWLICKA MAULE	3373 9919		anna.maulle@gmail.com	3373 9919		anna.maulle@gmail.com		ALAMEDA AMANACY, 258 - COND. PARQUE ITAIPU, CEP 13570- 970 SÃO CARLOS - SP	
+1311018	FERNANDA REALI DE OLIVEIRA 	CASSIA T. PENALVA REALI	3371 8095		fefereali@gmail.com	3371 8095		fefereali@gmail.com	ctreali@gmail.com	RUA EPISCOPAL, 2100 - APTO 121 CENTRO, CEP 13560-049 SÃO CARLOS - SP	
+1311019	ALINE MARIA LUCCHETTA 	LUIZ OSCAR LUCCHETTA 	3371 7465	34115300	aline.lucchetta@yahoo.com.br	3371 7465		likatonks_77@hotmail.com	lucchetta@linkway.com.br	RUA QUINTINO BOCAIUVA,384 BELA VISTA, CEP 13574-003 SÃO CARLOS - SP	
+1311020	SABRINA DANIELE CARVALHO DOS SANTOS	SABRINA DANIELE CARVALHO DOS SANTOS	3411 1339		sabrina_carvalho1@hotmail.com	3411 1339		sabrina_carvalho1@hotmail.com		RUA JOSUÉ MARQUES MARTINS, 3836 VILA FARIA CEP 13569-050 SÃO CARLOS - SP	
+1311021	GUILHERME LORENZEN	HAN CLAUDIO LORENZEN	3307 5316		guilhermegengar@hotmail.com	3307 5316		guilhermegengar@hotmail.com		RUA JESUS BLANCO NUNES, 87, CEP 13564-270 SÃO CARLOS - SP	
+1311022	GUSTAVO HENRIQUE ROSSI PASSADOR 	GLAUDECIR JOSÉ PASSADOR	33753635	3371 1360	gustavo_passador@hotmail.com	3376 3168		gustavo_passador@hotmail.com	glaudecirpassador@uol.com.br	RUA BASILIO DEBBO, 815 JARDIM CRUZEIRO DO SUL, CEP 13572-070 SÃO CARLOS - SP	
+1311023	MURILO TRIMER MORATA	MARIA REGINA TRIMER	3372 6774	33623099	murilo_trimer@hotmail.com	3372 6774		murilo_trimer@hotmail.com	julio_morata@hotmail.com	RUA TIRADENTES,900 VILA ELIZABETH, CEP 13560-430 SÃO CARLOS - SP	
+1311024	ICARO COLOIAN ZAPPAROROLI	NEILA CRISTINA COLOIAN ZAPPAROLI	3371 9683		icaro_zappa93@hotmail.com	3371 9683		icaro_zappa93@hotmail.com			
+1311025	MARIA PAULA PICIN DA SILVA 	JOSÉ FERNANDO SIQUEIRA DA SILVA	3374 1516		paulinha.picin@yahoo.com.br	3374 1516		paulinha.picin@yahoo.com.br	fatimapicin@terra.com.br	RUA BRUNO GIONGO,3516, CEP 13569-231 SÃO CARLOS - SP	
+1311026	Letícia Barbosa Gomes Figueiredo Filho	Bernadete L. C. B. Figueiredo Filho/ Paulo Cesar Gomes do Couto Filho	34126927	33739619	le.filho@hotmail.com	3412 6927		letafilho@yahoo.com.br	bernadertefig@yahoo.com.br	R. Maria Herminia Sasso Garcia, nº 141, Santa Marta, São Carlos/SP - Cep: 13564260	
+1311027	Isis Olga Danza Latronico	Iris Danza Latronico/Maruricío Latronico	35-37226258	35-84095673	isisolga@hotmail.com	35-37226258		isisolga@hotmail.com		R. Presidente Kennedy, nº219, Marcal Santos,  Poços de Caldas - SP Cep: 37701-399	
+1311028	VINICIUS KENZO OKADA	MARINES APARECIDA G. OKADA				3412 9549		okada_22@hotmail.com / vini.okada@hotmail.com		RUA PEDRO FERNANDES ALONSO,116 SANTA FELICIA, CEP 13562-380 SÃO CARLOS - SP	
+1311029	AMANDA LOURO DE SOUZA	Luciana/WESLEY ALEXANDRE LOURO DE SOUZA 				3374 9366		amanda.louro@hotmail.com		RUA JOÃO MUNIZ,48 ITAMARATY, CEP 13568-780 SÃO CARLOS - SP	
+1311030	WILLIANE ANTONIO	FERNANDO IZAEL ANTONIO				3364 5226		willianeantonio@hotmail.com		RUA DESEMBARGADOR JULIO DE FARIA, 489 VILA PRADO CEP 13 574250 SÃO CARLOS - SP 	
+1311031	VITOR ESPERAÇA TRIQUES	SUELI ESPERANÇA 				3411 2605		triquesmail@gmail.com / vitor.triques@hotmail.com	suelitriques@gmail.com	RUA JOSÉ CALIJURI, 378 JARDIM PAULISTANO, CEP 13564-430 SÃO CARLOS - SP	
+1311032	Ricardo Vizzotto Stange	José Manoel Marconcini/ Lucinéia Vizzotto Marconcini	34127273	81663004/	ric_stange@hotmail.com	34127243	81663004/81561299	vic_stange@hotmail.com	lu_vizzotto@yahoo.combr	R. José Puartede Souza, nº511, Nova Santa Paula, São Carlos/SP - Cep:13564-030	
+1311033	GABRIEL RIZZO	SILMARA CRISTINA B. BRUNO RIZZO				3371 4108	97827534/ 33722123	gabrielrizzo_frodo@hotmail.com	trizzo@terra.com.br	RUA JOSÉ MISSALI, 221 PLANALTO PARAISO, CEP 13562-060 SÃO CARLOS - SP	
+1311034	CRISTIANE SAYURI AOKI HEREDIA	MIGUEL VALTER HEREDIA 				3361 3397		criis.sayuri@hotmail.com		RUA JOSÉ DE ALENCAR,137 COSTA DO SOL, CEP 13566-000 SÃO CARLOS - SP	
+1311035	ANA LEIZA ALTEIA	LEONARA GOMEZ ALTEIA				3413 9196	9262 6966	alteia@alge.com.br		RUA ANTONIO RODRIGUES CAJADO,            VILA NERY, CEP SÃO CARLOS - SP	
+1311036	GIULIA GOMES DA SILVA	EDNA RODRIGUES GONÇALVES DA SILVA				3413 8446		g.dourado@hotmail.com		AV. DR. CARLOS BOTELHO, 2220 CENTRO CEP 13560-250 SÃO CARLOS - SP	
+1311037	LEONARDO ROSSI HECKE	SILMARA CRISTINA ROSSI 				3366 4624		leo_rh.rossi@hotmail.com	sil.rossi@yahoo.com.br	RUA SALOMÃO SCHEVZ,469 JARDIM, CEP 13572-083 SÃO CARLOS - SP	
+1311038	GUILHERME HENRIQUE BRISOLAR	ANA MARIA BUENO ROSA BRISOLAR				3368 8033		guihb93@gmail.com		RUA ROCHA POMBO, 389 VILA LUTFALA, CEP 13570-675 SÃO CARLOS - SP	
+1311039	MARIANA MAYME LARLA DE ALMEIDA BOZA 	Joana Darc de Almeida Boza/				3415 3068	3306 8373	mariana.almeida@yahoo.com.br		RUA DO PARQUE,50 VILA NERY, CEP 13569-150 SÃO CARLOS - SP	
+1311040	BRUNO MAXIMO E MELO	WASHINGTON LUIZ DE BARROS MELO/ Eleonice Maximo e Melo				34139089	81642509/21072815	brunomaximom@hotmail.com		RUA ASTOR DIAS ANDRADE,1812 VILA FARIA, CEP 13569-002 SÃO CARLOS - SP	
+1311041	JULIANA DE OLIVEIRA ARRUDA 	MARIO MELQUISEDEQUE ARRUDA/Lavinia Maria de Oliveira	(51) 8187 0749	3371-2924	MARIO MELQUISEDEQUE ARRUDA	33712924	3371-2924	juliasb9@gmail.com		RUA SÃO SEBASTIÃO,2692 - CENTRO, CEP 13560-230 SÃO CARLOS - SP	
+1311042	VITORIA REGINA JULIÃO BARBOSA	MARISA ANTONIO JULIÃO	3413 0689	9707 0986	viick_07@hotmail.com	3413 0689	9707 0986	viick_07@hotmail.com	marisa.juliao@faber-castell.com.br	RUA ANTONIO FISCHER DOS SANTOS, 140 JD. PAULISTANO CEP 13564 - 390 SÃO CARLOS - SP	
+1311043	CAROLINE FERNANDES SEGNA GROSSMANN	LAIDE NEIDE SEGNA	3307 6528	Laide-97835646	carolinefsg@hotmail.fr	3307 6528	Laide-97835646	carolinefsg@hotmail.fr		RUA PASTOR CYRUS BASSET DANSEY,140 JD. CARDINALLI, CEP 13569-530 SÃO CARLOS - SP	
+1311044	JOÃO VICTOR MORTATI	JOÃO GUILHERME CORTES MORTATI				3374-3061		moita_mortati@hotmail.com		RUA GIACOMO CASALE, 157 JD. ALVORADA, CEP 13562-350  SÃO CARLOS - SP	

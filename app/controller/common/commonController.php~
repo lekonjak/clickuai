@@ -1,0 +1,17 @@
+<?php
+class common extends Controller{
+	protected  $db;
+
+	public function init(){
+		$this->db = $this->model('common/common');
+	}
+
+	public function index(){
+		$this->data = array();
+		
+        $this->smarty->assign('name', 'bundao');
+        $this->smarty->display('/common/index.tpl');
+		//$this->view('common/index', $this->data);
+	}
+}
+?>

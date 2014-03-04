@@ -1,0 +1,4 @@
+
+Warning: file_get_contents(template.xml): failed to open stream: No such file or directory in /var/www/nano/core/helper/xlsxHelper.php on line 150
+
+Warning: file_put_contents(output_short.xml): failed to open stream: Permission denied in /var/www/nano/core/helper/xlsxHelper.php on line 140
