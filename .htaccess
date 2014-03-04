@@ -1,0 +1,21 @@
+RewriteEngine on
+RewriteCond %{SCRIPT_FILENAME} !-f
+RewriteCond %{SCRIPT_FILENAME} !-d
+RewriteRule ^(.*)$ index.php?url=$1 [QSA]
+ErrorDocument 400 /app/view/theme/default/error/HTTP_BAD_REQUEST.html 
+ErrorDocument 401 /app/view/theme/default/error/HTTP_UNAUTHORIZED.html 
+ErrorDocument 403 /app/view/theme/default/error/HTTP_FORBIDDEN.html 
+ErrorDocument 404 /app/view/theme/default/error/HTTP_NOT_FOUND.html 
+ErrorDocument 405 /app/view/theme/default/error/HTTP_METHOD_NOT_ALLOWED.html 
+ErrorDocument 408 /app/view/theme/default/error/HTTP_REQUEST_TIME_OUT.html 
+ErrorDocument 410 /app/view/theme/default/error/HTTP_GONE.html 
+ErrorDocument 411 /app/view/theme/default/error/HTTP_LENGTH_REQUIRED.html 
+ErrorDocument 412 /app/view/theme/default/error/HTTP_PRECONDITION_FAILED.html 
+ErrorDocument 413 /app/view/theme/default/error/HTTP_REQUEST_ENTITY_TOO_LARGE.html 
+ErrorDocument 414 /app/view/theme/default/error/HTTP_REQUEST_URI_TOO_LARGE.html 
+ErrorDocument 415 /app/view/theme/default/error/HTTP_SERVICE_UNAVAILABLE.html 
+ErrorDocument 500 /app/view/theme/default/error/HTTP_INTERNAL_SERVER_ERROR.html 
+ErrorDocument 501 /app/view/theme/default/error/HTTP_NOT_IMPLEMENTED.html 
+ErrorDocument 502 /app/view/theme/default/error/HTTP_BAD_GATEWAY.html 
+ErrorDocument 503 /app/view/theme/default/error/HTTP_SERVICE_UNAVAILABLE.html 
+ErrorDocument 506 /app/view/theme/default/error/HTTP_VARIANT_ALSO_VARIES.html 

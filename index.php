@@ -4,6 +4,11 @@ date_default_timezone_set('America/Sao_Paulo');
 /*
  * This file is Index for framework
  */
+//Require error handler 
+require_once 'include/classes/ErrorHandler.php';
+//Setting up error handler
+set_error_handler("errorHandler");
+
 //Include Controller
 require_once 'core/config.php';
 require_once 'core/system.php';

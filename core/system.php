@@ -15,10 +15,12 @@ class system {
     private $_url;
     private $_vars;
     private $_db;
+    private $_admin_access;
     public $_action;
     public $_controller;
     public $_lang;
     public $_params;
+    public $_appurlself;
     public $_urlself;
     public $_name;
     public $smarty;
@@ -26,6 +28,7 @@ class system {
     public function __construct() {
         $this->_db = new Model();
         $this->setUrl();
+        $this->checkIfAdminAccessRequest();
         $this->setUrlSelf();
         $this->setVars();
         $this->setController();
@@ -34,6 +37,15 @@ class system {
         $this->setAction();
         $this->setParams();
         $this->setSmarty();
+    }
+
+    private function checkIfAdminAccessRequest(){
+        $this->_admin_access = strpos($this->url, DIR_ADMIN);
+        if($this->_admin_access){
+            $this->_appurlself = '/app/admin';
+        }else{
+            $this->_appurlself = '/app';
+        }
     }
 
     private function setLang() {
@@ -46,7 +58,7 @@ class system {
     }
 
     private function setUrlSelf() {
-        $this->_urlself = "/app/controller/" . $this->_url;
+        $this->_urlself = $this->_appurlself."/controller/" . $this->_url;
     }
 
     private function setVars() {
