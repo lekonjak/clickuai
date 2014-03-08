@@ -46,7 +46,7 @@ class Controller extends System {
     protected function model($path) {
         $vars = explode('/', $path);
         $model = $vars[1] . 'Model';
-        require_once 'app/model/' . $vars[0] . '/' . $vars[1] . 'Model.php';
+        require_once $this->_appurlself.'/model/' . $vars[0] . '/' . $vars[1] . 'Model.php';
         return new $model();
     }
 

@@ -20,26 +20,22 @@ require_once 'core/classes/class.mysqli.php';
 require_once 'core/model.php';
 
 //Include Smarty Framework
-require('core/libs/Smarty/Smarty.class.php');
+require 'core/libs/Smarty/Smarty.class.php';
 
 $autoloader = new Loader();
 
-// Setup ORM Doctrine Framework
-require_once 'vendor/autoload.php';
+//Configuring PHP Active Record Framework
+require_once 'core/libs/phpactiverecord/ActiveRecord.php';
 
-use Doctrine\ORM\Tools\Setup;
-use Doctrine\ORM\EntityManager;
+# must issue a "use" statement in your closure if passing variables
+ActiveRecord\Config::initialize(function($cfg) use ($connections)
+{
+	$cfg->set_model_directory('app/model/');
+	$cfg->set_connections($connections);
 
-$paths = array("/core/ORM");
-$isDevMode = false;
-
-// the connection configuration
-$dbParams = array(
-    'driver'   => DB_DRIVER,
-    'user'     => DB_USER,
-    'password' => DB_PASSWORD,
-    'dbname'   => DB_NAME,
-);
+	# default connection is now production
+	$cfg->set_default_connection(ENVIRONMENT);
+});
 
 //$config = Setup::createAnnotationMetadataConfiguration($paths, $isDevMode);
 //$entityManager = EntityManager::create($dbParams, $config);
@@ -48,5 +44,4 @@ $dbParams = array(
 session_start();
 $start = new System();
 $start->run();
-
 ?>

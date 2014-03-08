@@ -40,11 +40,13 @@ class system {
     }
 
     private function checkIfAdminAccessRequest(){
-        $this->_admin_access = strpos($this->url, DIR_ADMIN);
-        if($this->_admin_access){
-            $this->_appurlself = '/app/admin';
+        // Checking if try access admin Area
+        $this->_admin_access = strripos($this->_url, DIR_ADMIN);
+        // Changing url selfs
+        if($this->_admin_access === false){
+            $this->_appurlself = 'app';
         }else{
-            $this->_appurlself = '/app';
+            $this->_appurlself = 'app/admin';
         }
     }
 
@@ -66,7 +68,11 @@ class system {
     }
 
     private function setController() {
-        $this->_controller = $this->_vars[0];
+        if($this->_admin_access === false){
+            $this->_controller = $this->_vars[0];
+        }else{
+            $this->_controller = $this->_vars[1];
+        }
     }
     
     private function setSystemName(){
@@ -74,12 +80,16 @@ class system {
     }
 
     private function setAction() {
-        $act = (!isset($this->_vars[1]) || $this->_vars[1] == null ? $this->_action = 'index' : $this->_action = $this->_vars[1]);
+        if($this->_admin_access === false){
+            $act = (!isset($this->_vars[1]) || $this->_vars[1] == null ? $this->_action = 'index' : $this->_action = $this->_vars[1]);
+        }else{
+                $act = (!isset($this->_vars[2]) || $this->_vars[2] == null ? $this->_action = 'index' : $this->_action = $this->_vars[2]);          
+        }
         $this->_action = $act;
     }
 
     private function setParams() {
-        unset($this->_vars[0], $this->_vars[1]);
+        unset($this->_vars[0], $this->_vars[1], $this->_vars[2]);
         if (end($this->_vars) == null)
             array_pop($this->_vars);
         $i = 0;
@@ -104,12 +114,22 @@ class system {
     }
 
     public function setSmarty(){
+        //Setup for Smarty
+
         if(!is_object($this->smarty)){
-            $this->smarty = new Smarty();
-            $this->smarty->setTemplateDir(SMARTY_TEMPLATE);
-            $this->smarty->setCompileDir(SMARTY_TEMPLATE_C);
-            $this->smarty->setCacheDir(SMARTY_CACHE);
-            $this->smarty->setConfigDir(SMARTY_CONFIG);
+            $this->smarty = new Smarty();    
+            // Change User/Admin area
+            if($this->_admin_access === false){
+                $this->smarty->setTemplateDir(SMARTY_TEMPLATE);
+                $this->smarty->setCompileDir(SMARTY_TEMPLATE_C);
+                $this->smarty->setCacheDir(SMARTY_CACHE);
+                $this->smarty->setConfigDir(SMARTY_CONFIG);
+            }else{
+                $this->smarty->setTemplateDir(SMARTY_TEMPLATE_ADMIN);
+                $this->smarty->setCompileDir(SMARTY_TEMPLATE_ADMIN_C);
+                $this->smarty->setCacheDir(SMARTY_CACHE_ADMIN);
+                $this->smarty->setConfigDir(SMARTY_CONFIG_ADMIN);
+            }
             $this->smarty->assign('home', ROOT);
         }
     }
@@ -125,9 +145,9 @@ class system {
 
     public function run() {
         $redir = new redirHelper();
-        $controller_path = CONTROLLER . $this->_controller . "/" . $this->_controller . "Controller.php";
+        $controller_path = $this->_appurlself. CONTROLLER . $this->_controller . "/" . $this->_controller . "Controller.php";
         if (!file_exists($controller_path)):
-            $redir->go(ROOT . 'error/not_found');
+            //$redir->go(ROOT . 'error/not_found');
         else:
             require_once $controller_path;
 

@@ -20,7 +20,7 @@ function errorHandler($errno, $errstr, $errfile, $errline){
         break;
 
     default:
-        echo "Unknown error type: [$errno] $errstr<br />\n";
+        echo "Unknown error type: [$errno] linha <b>$errline ($errfile)</b>: $errstr<br />\n";
         break;
     }
 }
