@@ -1,4 +1,25 @@
-<?php include 'header.tpl'; ?>
+<?php /* Smarty version Smarty-3.1.14, created on 2014-03-13 21:55:25
+         compiled from "/var/www/clickuai/app/admin/view/theme/elastic/common/main.tpl" */ ?>
+<?php /*%%SmartyHeaderCode:8487226015322533cccc6d1-75645682%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+$_valid = $_smarty_tpl->decodeProperties(array (
+  'file_dependency' => 
+  array (
+    'b98b313b1e7d0f5dff59452277491156cda60934' => 
+    array (
+      0 => '/var/www/clickuai/app/admin/view/theme/elastic/common/main.tpl',
+      1 => 1394758517,
+      2 => 'file',
+    ),
+  ),
+  'nocache_hash' => '8487226015322533cccc6d1-75645682',
+  'function' => 
+  array (
+  ),
+  'version' => 'Smarty-3.1.14',
+  'unifunc' => 'content_5322533cd17cd6_33499800',
+  'has_nocache_code' => false,
+),false); /*/%%SmartyHeaderCode%%*/?>
+<?php if ($_valid && !is_callable('content_5322533cd17cd6_33499800')) {function content_5322533cd17cd6_33499800($_smarty_tpl) {?><<?php ?>?php include 'header.tpl'; ?<?php ?>>
 <section id="main" class="column">
 
     <h4 class="alert_info">Welcome to the free MediaLoot admin panel template, this could be an informative message.</h4>
@@ -234,4 +255,4 @@
         </div>
     </article><!-- end of styles article -->
     <div class="spacer"></div>
-</section>
+</section><?php }} ?>

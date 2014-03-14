@@ -73,3 +73,64 @@ CREATE TABLE IF NOT EXISTS `incidents` (
   PRIMARY KEY (`id`),
   FOREIGN KEY (`u_id`) REFERENCES profiles(`id`)
 ) ENGINE=MyISAM  DEFAULT CHARSET=utf8 ;
+
+CREATE TABLE IF NOT EXISTS `clients` (
+  `id` int NOT NULL AUTO_INCREMENT,
+  `u_id` int NOT NULL,
+  `address_id` int NOT NULL,
+  `doc_numeber` varchar(255) DEFAULT NULL,
+  `razao_social` varchar(102) DEFAULT NULL,
+  `description` text(1024) DEFAULT NULL,
+  `website` varchar(255) DEFAULT NULL,
+  `keywords` varchar(255) DEFAULT NULL,
+  `reported` boolean DEFAULT '0',
+  `datetime` datetime DEFAULT NULL,
+  PRIMARY KEY (`id`),
+  FOREIGN KEY (`u_id`) REFERENCES profiles(`id`),
+  FOREIGN KEY (`address_id`) REFERENCES addresses(`id`)
+) ENGINE=MyISAM  DEFAULT CHARSET=utf8 ;
+
+
+CREATE TABLE IF NOT EXISTS `categories` (
+  `id` int NOT NULL AUTO_INCREMENT,
+  `parent_id` int DEFAULT NULL,
+  `name` varchar(255) DEFAULT NULL,
+  `description` varchar(102) DEFAULT NULL,
+  `keywords` varchar(255) DEFAULT NULL,
+  PRIMARY KEY (`id`),
+  FOREIGN KEY (`parent_id`) REFERENCES categories(`id`)
+) ENGINE=MyISAM  DEFAULT CHARSET=utf8 ;
+
+CREATE TABLE IF NOT EXISTS `photos` (
+  `id` int NOT NULL AUTO_INCREMENT,
+  `u_id` int NOT NULL,
+  `cli_id` int DEFAULT NULL,
+  `description` varchar(102) DEFAULT NULL,
+  `url` varchar(255) DEFAULT NULL,
+  `extension` varchar(255) DEFAULT NULL,
+  `state` boolean,
+  PRIMARY KEY (`id`),
+  FOREIGN KEY (`u_id`) REFERENCES users(`id`),
+  FOREIGN KEY (`cli_id`) REFERENCES clients(`id`)
+) ENGINE=MyISAM  DEFAULT CHARSET=utf8 ;
+
+CREATE TABLE IF NOT EXISTS `category_to_client` (
+  `cat_id` int NOT NULL AUTO_INCREMENT,
+  `cli_id` int NOT NULL,
+  FOREIGN KEY (`cat_id`) REFERENCES categories(`id`),
+  FOREIGN KEY (`cli_id`) REFERENCES clients(`id`)
+) ENGINE=MyISAM  DEFAULT CHARSET=utf8 ;
+
+CREATE TABLE IF NOT EXISTS `email_to_client` (
+  `e_id` int NOT NULL AUTO_INCREMENT,
+  `cli_id` int NOT NULL,
+  FOREIGN KEY (`e_id`) REFERENCES emails(`id`),
+  FOREIGN KEY (`cli_id`) REFERENCES clients(`id`)
+) ENGINE=MyISAM  DEFAULT CHARSET=utf8 ;
+
+CREATE TABLE IF NOT EXISTS `photos_to_client` (
+  `ph_id` int NOT NULL AUTO_INCREMENT,
+  `cli_id` int NOT NULL,
+  FOREIGN KEY (`ph_id`) REFERENCES photos(`id`),
+  FOREIGN KEY (`cli_id`) REFERENCES clients(`id`)
+) ENGINE=MyISAM  DEFAULT CHARSET=utf8;

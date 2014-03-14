@@ -38,6 +38,7 @@ class common extends Controller{
 	 
 		# delete Tito
 		#$user->delete();
+		$this->smarty->display('common/main.tpl');
 	}
 }
 
