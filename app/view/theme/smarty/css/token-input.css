@@ -33,12 +33,19 @@ li.token-input-token {
     height: auto !important; 
     height: 1%;
     margin: 3px;
-    padding: 3px 5px;
-    background-color: #d0efa0;
-    color: #000;
-    font-weight: bold;
     cursor: default;
-    display: block;
+    display: inline-block;
+    min-width: 10px;
+    padding: 3px 7px;
+    font-size: 12px;
+    font-weight: 700;
+    color: #fff;
+    line-height: 1;
+    vertical-align: baseline;
+    white-space: nowrap;
+    text-align: center;
+    background-color: #999;
+    border-radius: 10px;
 }
 
 li.token-input-token p {

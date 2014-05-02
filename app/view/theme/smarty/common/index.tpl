@@ -18,12 +18,13 @@
 
   <body>
     <div class="body">
-      <form role="form" name="search" id="search-form" action="" method="post">
-        <div class="form-group">
-          <label>Pesquisar</label>
-          <input type="text" class="form-control" id="search-field" name="qsearch" placeholder="Pesquisar">
-        </div>
-      </form>
+      <div class="index-search-box">
+        <form role="form" name="search" id="search-form" action="" method="post">
+          <div class="form-group">
+            <input type="text" class="form-control" id="search-field" name="qsearch" placeholder="Pesquisar">
+          </div>
+        </form>
+      </div>
     </div>
     <!-- Bootstrap core JavaScript
     ================================================== -->

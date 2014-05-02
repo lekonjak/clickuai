@@ -127,3 +127,12 @@ a:hover {
 .icon-arrow-left:before {
 	content: "\f060";
 }
+
+.index-search-box{
+	width: 400px;
+	height: 250px;
+	text-align: left;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 15%;
+}

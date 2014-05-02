@@ -1,4 +1,4 @@
-<?php /* Smarty version Smarty-3.1.14, created on 2014-04-30 23:37:56
+<?php /* Smarty version Smarty-3.1.14, created on 2014-05-02 16:10:04
          compiled from "/var/www/clickuai/app/view/theme/smarty/common/index.tpl" */ ?>
 <?php /*%%SmartyHeaderCode:155033257953160f1dee8a80-51308629%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
@@ -7,7 +7,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     'cc91b2821606e999a2863778c5494b74a1739038' => 
     array (
       0 => '/var/www/clickuai/app/view/theme/smarty/common/index.tpl',
-      1 => 1398911868,
+      1 => 1399057720,
       2 => 'file',
     ),
   ),
@@ -39,12 +39,13 @@ $_valid = $_smarty_tpl->decodeProperties(array (
 
   <body>
     <div class="body">
-      <form role="form" name="search" id="search-form" action="" method="post">
-        <div class="form-group">
-          <label>Pesquisar</label>
-          <input type="text" class="form-control" id="search-field" name="qsearch" placeholder="Pesquisar">
-        </div>
-      </form>
+      <div class="index-search-box">
+        <form role="form" name="search" id="search-form" action="" method="post">
+          <div class="form-group">
+            <input type="text" class="form-control" id="search-field" name="qsearch" placeholder="Pesquisar">
+          </div>
+        </form>
+      </div>
     </div>
     <!-- Bootstrap core JavaScript
     ================================================== -->
