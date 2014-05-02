@@ -9,6 +9,7 @@
     <link rel="shortcut icon" href="app/view/theme/smarty/assets/ico/favicon.png">
     <link rel="stylesheet" type="text/css" href="app/view/theme/smarty/css/default.css" />
     <link rel="stylesheet" type="text/css" href="app/view/theme/smarty/css/component.css" />
+    <link rel="stylesheet" type="text/css" href="app/view/theme/smarty/css/token-input.css" />
     <script src="app/view/theme/smarty/js/modernizr.custom.js"></script>
     <title>PartyU</title>
     <link href="app/view/theme/smarty/dist/css/bootstrap.css" rel="stylesheet">
@@ -16,60 +17,27 @@
   </head>
 
   <body>
-    {include file="common/header.tpl"}
-    <div style="margin-top: 40px;"></div>
-    <div class="container">
-      <div class="main">
-        <br />
-        {if isset($msg)}
-          {$msg}
-        {/if}
-        <h1>Próximos Eventos</h1>
-        <ul class="cbp_tmtimeline">
-          {if isset($session['userName'])}
-          <li>
-            <time class="cbp_tmtime" datetime="{$event->startEvent|date_format}"><span></span> <span></span></time>
-            <div class="cbp_tmicon cbp_tmicon-phone"></div>
-            <div class="cbp_tmlabel">
-              <h2><a style="color:#FFF" href="event?eventId={$event->idEvent}">Anuncie o seu evento</a> <div>
-                    <p><button type="submit" onclick="$('#form').toggle();" class="btn btn-default"><span class="glyphicon glyphicon-certificate"></span> Criar</button></p>
-                  </div></h2>
-              <div class="form-group col-md-12" style="display:none;" id="form">
-                <form name="create_event" method="post" action="{$form_action}">
-                    <p><input type="text" value="" placeholder="Um título para seu evento..." name="titleEvent" class="form-control"/></p>
-                    <p><textarea name="descriptionEvent" class="form-control" placeholder="Descrição do evento..."></textarea></p>
-                    <p><input type="text" name="addressEvent" value="" placeholder="Endereço do envento..." class="form-control" /></p>
-                    <div>
-                        <div class="col-md-6"><label>Início: </label><input type="datetime-local" name="startEvent" class="form-control" /></div>
-                        <div class="col-md-6"><label>Término: </label><input type="datetime-local" name="endEvent" class="form-control" /></div>
-                    </div>
-                    <br />
-                    <br />
-                    <p><button type="submit" class="btn btn-default"><span class="glyphicon glyphicon-ok-sign"></span> Criar</button></p>
-                </form>
-              </div>
-            </div>
-          </li>
-          {/if}
-          {while $event = $events->fetch_object()}
-          <li>
-            <time class="cbp_tmtime" datetime="{$event->startEvent|date_format}"><span>{$event->startEvent|date_format}</span> <span>{$event->startEvent|date_format}</span></time>
-            <div class="cbp_tmicon cbp_tmicon-phone"></div>
-            <div class="cbp_tmlabel">
-              <h2><a style="color:#FFF" href="event?eventId={$event->idEvent}">{$event->titleEvent}</a></h2>
-              <p>{$event->descriptionEvent}</p>
-            </div>
-          </li>
-          {/while}
-        </ul>
-      </div>
+    <div class="body">
+      <form role="form" name="search" id="search-form" action="" method="post">
+        <div class="form-group">
+          <label>Pesquisar</label>
+          <input type="text" class="form-control" id="search-field" name="qsearch" placeholder="Pesquisar">
+        </div>
+      </form>
     </div>
-
-
     <!-- Bootstrap core JavaScript
     ================================================== -->
     <!-- Placed at the end of the document so the pages load faster -->
     <script src="app/view/theme/smarty/assets/js/jquery.js"></script>
     <script src="app/view/theme/smarty/dist/js/bootstrap.min.js"></script>
+    <script src="app/view/theme/smarty/js/typeahead.bundle.js"></script>
+    <script src="app/view/theme/smarty/js/jquery.tokeninput.js"></script>
+    {literal}
+    <script type="text/javascript">
+    $(document).ready(function () {
+        $("#search-field").tokenInput("async/qcomplete");
+    });
+    </script>
+    {/literal}
   </body>
 </html>

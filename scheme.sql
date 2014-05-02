@@ -134,3 +134,10 @@ CREATE TABLE IF NOT EXISTS `photos_to_client` (
   FOREIGN KEY (`ph_id`) REFERENCES photos(`id`),
   FOREIGN KEY (`cli_id`) REFERENCES clients(`id`)
 ) ENGINE=MyISAM  DEFAULT CHARSET=utf8;
+
+CREATE TABLE IF NOT EXISTS `qsearchs` (
+  `id` int NOT NULL AUTO_INCREMENT,
+  `query_search` varchar(255) NOT NULL,
+  `counter` int NOT NULL DEFAULT 0,
+  PRIMARY KEY (`id`)
+) ENGINE=MyISAM  DEFAULT CHARSET=utf8;
