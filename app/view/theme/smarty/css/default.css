@@ -134,5 +134,12 @@ a:hover {
 	text-align: left;
 	margin-right: auto;
 	margin-left: auto;
-	margin-top: 15%;
+	margin-top: 10%;
+}
+
+.logo-home{
+	width: 200px;
+	height: 80px;
+	margin-right: auto;
+	margin-left: auto;
 }

@@ -1,39 +1,21 @@
 <?php
 class common extends Controller{
-	protected $db;
-    protected $appId;
-    protected $appSecret;
-    protected $redirectUri;
 
 	public function init(){
-        $this->db = $this->model('common/common');
-        
-        // Set facebook login vars
-        $this->setAppId('690327257652727');
-        $this->setAppSecret('8377b88d4695a13092e76953c7a3a5df');
-        $this->setRedirectUri('http://www.party-u.com/facebook/login');
 	}
 
 	public function index(){
         $this->data = array();
-		$events =  $this->db->Events(NULL);
         if(isset($_SESSION['msg'])){
             $this->smarty->assign('msg', $_SESSION['msg']);
             unset($_SESSION['msg']);
         }
         
-        if(isset($_SESSION['userName'])){
-            $this->smarty->assign('username', $_SESSION['userName']);
-        }
-        
-        $this->smarty->assign('facebook_getUserData_url', ROOT.'facebook/getUserData');
-        $this->smarty->assign('events', $events);
-        $this->smarty->assign('session', $_SESSION);
-        $this->smarty->assign('form_action', ROOT.'event/create');
+        $this->smarty->assign('form_action', ROOT.'search/results');
         $this->smarty->display('common/index.tpl');
 	}
     
-    public function login(){
+    /*public function login(){
         require_once 'core/libs/facebook/facebook.class.php';
         
         $id = $this->getAppId(); // facebook applicationh ID.
@@ -81,6 +63,6 @@ class common extends Controller{
     
     public function setRedirectUri($str){
         $this->redirectUri = $str;
-    }
+    }*/
 }
 ?>

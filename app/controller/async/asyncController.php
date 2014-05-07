@@ -10,7 +10,7 @@ class async extends Controller{
             $q = $_GET['q'];
             $json = array();
             try {
-                $results = QSearchs::find('all', array('conditions' => "query_search LIKE '%$q%'"));
+                $results = QSearchs::find('all', array('conditions' => "query_search LIKE '%$q%' order by `counter` desc"));
                 foreach ($results as $key => $value) {
                     $json[] = array('id' => $value->id, 'name' => $value->query_search);
                 }

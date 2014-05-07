@@ -1,4 +1,4 @@
-<?php /* Smarty version Smarty-3.1.14, created on 2014-05-02 16:10:04
+<?php /* Smarty version Smarty-3.1.14, created on 2014-05-04 22:08:37
          compiled from "/var/www/clickuai/app/view/theme/smarty/common/index.tpl" */ ?>
 <?php /*%%SmartyHeaderCode:155033257953160f1dee8a80-51308629%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
@@ -7,7 +7,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     'cc91b2821606e999a2863778c5494b74a1739038' => 
     array (
       0 => '/var/www/clickuai/app/view/theme/smarty/common/index.tpl',
-      1 => 1399057720,
+      1 => 1399252064,
       2 => 'file',
     ),
   ),
@@ -17,6 +17,10 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'version' => 'Smarty-3.1.14',
   'unifunc' => 'content_53160f1e222a63_47857478',
+  'variables' => 
+  array (
+    'form_action' => 0,
+  ),
   'has_nocache_code' => false,
 ),false); /*/%%SmartyHeaderCode%%*/?>
 <?php if ($_valid && !is_callable('content_53160f1e222a63_47857478')) {function content_53160f1e222a63_47857478($_smarty_tpl) {?>﻿<!DOCTYPE html>
@@ -32,7 +36,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     <link rel="stylesheet" type="text/css" href="app/view/theme/smarty/css/component.css" />
     <link rel="stylesheet" type="text/css" href="app/view/theme/smarty/css/token-input.css" />
     <script src="app/view/theme/smarty/js/modernizr.custom.js"></script>
-    <title>PartyU</title>
+    <title>ClickUAI.com</title>
     <link href="app/view/theme/smarty/dist/css/bootstrap.css" rel="stylesheet">
     <link href="app/view/theme/smarty/css/starter-template.css" rel="stylesheet">
   </head>
@@ -40,7 +44,11 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   <body>
     <div class="body">
       <div class="index-search-box">
-        <form role="form" name="search" id="search-form" action="" method="post">
+        <div class="logo-home">
+            <img src="" height="80px" width="200px" border="0" alt="logo" role="logo">
+        </div>
+        <form role="form" name="search" id="search-form" action="<?php echo $_smarty_tpl->tpl_vars['form_action']->value;?>
+" method="post">
           <div class="form-group">
             <input type="text" class="form-control" id="search-field" name="qsearch" placeholder="Pesquisar">
           </div>

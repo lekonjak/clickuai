@@ -11,7 +11,7 @@
     <link rel="stylesheet" type="text/css" href="app/view/theme/smarty/css/component.css" />
     <link rel="stylesheet" type="text/css" href="app/view/theme/smarty/css/token-input.css" />
     <script src="app/view/theme/smarty/js/modernizr.custom.js"></script>
-    <title>PartyU</title>
+    <title>ClickUAI.com</title>
     <link href="app/view/theme/smarty/dist/css/bootstrap.css" rel="stylesheet">
     <link href="app/view/theme/smarty/css/starter-template.css" rel="stylesheet">
   </head>
@@ -19,7 +19,10 @@
   <body>
     <div class="body">
       <div class="index-search-box">
-        <form role="form" name="search" id="search-form" action="" method="post">
+        <div class="logo-home">
+            <img src="" height="80px" width="200px" border="0" alt="logo" role="logo">
+        </div>
+        <form role="form" name="search" id="search-form" action="{$form_action}" method="post">
           <div class="form-group">
             <input type="text" class="form-control" id="search-field" name="qsearch" placeholder="Pesquisar">
           </div>
