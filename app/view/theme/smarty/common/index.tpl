@@ -25,6 +25,7 @@
         <form role="form" name="search" id="search-form" action="{$form_action}" method="post">
           <div class="form-group">
             <input type="text" class="form-control" id="search-field" name="qsearch" placeholder="Pesquisar">
+            <input type="submit" value="Pesquisar" />
           </div>
         </form>
       </div>

@@ -1,5 +1,5 @@
 /* General Blueprint Style */
-@import url(http://fonts.googleapis.com/css?family=Lato:300,400,700);
+/*@import url(http://fonts.googleapis.com/css?family=Lato:300,400,700);*/
 @font-face {
 	font-family: 'fontawesome';
 	src:url('../fonts/fontawesome.eot');
@@ -142,4 +142,62 @@ a:hover {
 	height: 80px;
 	margin-right: auto;
 	margin-left: auto;
+}
+
+.top-bar{
+    background-color: #000;
+    top: 0px;
+    right: 0px;
+    left: 0px;
+    height: 40px;
+}
+
+.top-bar .search-box{
+    margin-left: 15%;
+    margin-right: auto;
+    width: 200px;
+    float: left;
+}
+
+.top-bar .logo-home{
+	width: 100px;
+	height: 40px;
+	margin-left: 10%;
+    float:left;
+}
+
+.search-results .columns{
+    width: 100%;
+    height: 100%;
+    left: 0;
+    right: 0;
+    text-align:left;
+}
+
+.search-results .left{
+    float: left;
+    vertical-align:text-top;
+    height: 100%;
+    width:20%;
+    text-align:left;
+    bottom: 0;
+    padding-top: 20px;
+}
+
+.search-results .center{
+    float: left;
+    vertical-align:text-top;
+    height: 100%;
+    width:60%;
+    text-align:left;
+    padding-top: 20px;
+}
+
+.search-results .right{
+    float: right;
+    vertical-align:text-top;
+    height: 100%;
+    width:20%;
+    text-align:left;
+    padding-top: 20px;
 }

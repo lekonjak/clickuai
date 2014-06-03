@@ -5,12 +5,6 @@
     <script src="app/view/theme/smarty/dist/js/bootstrap.min.js"></script>
     <script src="app/view/theme/smarty/js/typeahead.bundle.js"></script>
     <script src="app/view/theme/smarty/js/jquery.tokeninput.js"></script>
-    {literal}
-    <script type="text/javascript">
-    $(document).ready(function () {
-        $("#search-field").tokenInput("async/qcomplete");
-    });
-    </script>
-    {/literal}
+    <script src="app/view/theme/smarty/js/search.js"></script>
   </body>
 </html>

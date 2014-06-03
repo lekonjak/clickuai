@@ -1,6 +1,7 @@
 <?php
 class common extends Controller{
-
+    private $data;
+    
 	public function init(){
 	}
 
@@ -11,7 +12,7 @@ class common extends Controller{
             unset($_SESSION['msg']);
         }
         
-        $this->smarty->assign('form_action', ROOT.'search/results');
+        $this->smarty->assign('form_action', ROOT.'search');
         $this->smarty->display('common/index.tpl');
 	}
     
